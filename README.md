@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ку-ку епты 👋
 
 <!--
 **fog2312/fog2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
